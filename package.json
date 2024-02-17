@@ -1,8 +1,14 @@
 {
   "name": "vscode-web-development-extensions",
   "displayName": "VSCode Web Development Extensions",
+  "publisher": "muzhe-zhou",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhou1323/vscode-web-development-extensions"
+  },
   "description": "An extension package created for web development",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.86.0"
   },
